@@ -1,2 +1,2 @@
 # Dsc_UofM_coursera
-Coursera Certificate in Data Science Repo
+Coursera Certificate in Data Science Repository 
